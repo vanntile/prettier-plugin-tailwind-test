@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    ".stylelintrc": "jsonc",
+    "*.astro": "astro",
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSaveMode": "file",
+  },
+}
